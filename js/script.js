@@ -1,7 +1,7 @@
 $(document).ready(function() {
     //Store quotes
     var quoteBank = [];
-    $.getJSON("http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=30&callback=", function(data) {
+    $.getJSON("https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=30&callback=", function(data) {
 
         data.forEach(function(val) {
             quoteBank.push(val);
