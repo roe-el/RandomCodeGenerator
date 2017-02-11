@@ -1,0 +1,48 @@
+.jumbotron {
+    margin: 25px;
+    padding-bottom: 50px;
+    background-color: white;
+    border-radius: 25px;
+    border-color: black;
+}
+
+#title {
+    font-size: 48px;
+    font-family: Arial;
+}
+
+body {
+    margin-top: 36px;
+    margin-bottom: 25px;
+    font-family: Arial;
+    background-color: grey;
+}
+
+span {
+    font-family: Times;
+}
+
+.tweetQuote {
+    float: left;
+}
+
+#author {
+    font-size: 30px;
+    padding-right: 8px;
+}
+
+.btn {
+    float: right;
+    background-color: grey;
+}
+
+#author,
+#text,
+.btn,
+#title {
+    color: black;
+}
+
+#name {
+    color: white;
+}
