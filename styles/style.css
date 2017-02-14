@@ -8,18 +8,14 @@
 
 #title {
     font-size: 48px;
-    font-family: Arial;
 }
 
 body {
-    margin-top: 36px;
+    margin-top: 48px;
     margin-bottom: 25px;
-    font-family: Arial;
-    background-color: grey;
-}
-
-span {
-    font-family: Times;
+    font-family: Pangolin;
+    cursive;
+    background-color: #00FFFF;
 }
 
 .tweetQuote {
@@ -33,7 +29,7 @@ span {
 
 .btn {
     float: right;
-    background-color: grey;
+    background-color: #00FFFF;
 }
 
 #author,
