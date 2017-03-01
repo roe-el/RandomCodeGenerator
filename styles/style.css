@@ -15,7 +15,9 @@ body {
     margin-bottom: 25px;
     font-family: Pangolin;
     cursive;
-    background-color: #00FFFF;
+    background:url("http://www.webdesignhot.com/wp-content/uploads/2016/01/Blue-Low-Poly-Design-Abstract-Background-Vector-Illustration.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .tweetQuote {
